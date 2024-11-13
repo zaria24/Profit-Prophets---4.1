@@ -1,0 +1,14 @@
+# To get started with Profit Prophet's Auto Trading Stock Bot, CREATE AN ALPACA TRADING ACCOUNT AND REQUEST A NEW API KEY AND NEW SECRET KEY
+
+
+API_KEY = 'PK8KIJ6P8D97B11E4EZS'
+SECRET_KEY = 'ZezyH1RxkX9vpqLDdXGTT79b2VRMPbcDHcBIHWBx'
+
+'''
+ALPACA_URL = 'https://paper-api.alpaca.markets'
+
+HEADERS - {
+     'PKLGC84PSXPHM79WWULX': API_KEY,
+     'c15VhM0cSZ1bIz7BgfAngLdlpjJ3khFYDoGobyIf': SECRET_KEY
+}
+'''
